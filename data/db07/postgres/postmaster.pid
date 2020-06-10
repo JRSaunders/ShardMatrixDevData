@@ -1,8 +1,0 @@
-1
-/data/postgres
-1591108422
-5432
-/var/run/postgresql
-*
-  5432001         0
-ready   
